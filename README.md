@@ -2,6 +2,8 @@
 Project berisi resolusi ikdyusa dan latihan mempergunakan github.
 ------------------------------------------------------------------------
 Resolusi:
-  - Belajar HTML, CSS, dan Javascript
   - Tersertifikasi CCNA
   - Tersertifikasi ACE/CCP
+  - Belajar NodeJS, ExpressJS, Bootstrap, MongoDB, dan CRUD.
+  - Belajar security dan sistem otentikasi.
+  - Belajar front-end (react)
