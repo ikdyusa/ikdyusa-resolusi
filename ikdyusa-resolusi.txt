@@ -5,4 +5,5 @@ Resolusi:
   - Belajar security dan sistem otentikasi.
   - Belajar front-end:
     + React
+    + Angular
     + Vue
