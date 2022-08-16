@@ -6,3 +6,4 @@ Resolusi:
   - Belajar front-end:
     + React
     + Angular
+    + Vue
