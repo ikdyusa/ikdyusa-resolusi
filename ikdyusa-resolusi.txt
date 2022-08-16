@@ -3,4 +3,6 @@ Resolusi:
   - Tersertifikasi ACE/CCP
   - Belajar NodeJS, ExpressJS, Bootstrap, MongoDB, dan CRUD.
   - Belajar security dan sistem otentikasi.
-  - Belajar front-end (react).
+  - Belajar front-end:
+    + React
+    + Vue
